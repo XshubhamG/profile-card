@@ -24,8 +24,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/XshubhamG/profile-card.git
+)
+- Live Site URL: [Netlify](https://dainty-lily-fd779c.netlify.app)
 
 ## My process
 
